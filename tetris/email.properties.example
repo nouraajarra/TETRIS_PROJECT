@@ -1,0 +1,6 @@
+# Gmail email configuration example
+# Copy this file to email.properties and replace the values.
+
+mail.from=yourgmail@gmail.com
+mail.password=yourgmailapppassword
+
